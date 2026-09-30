@@ -1,0 +1,17 @@
+{
+  "owner": {
+    "permissions": ["manage_permissions"]
+  },
+  "ai": {
+    "permissions": [
+      "read_information",
+      "analyze_information"
+    ]
+  },
+  "protected_permissions": [
+    "manage_permissions",
+    "modify_core",
+    "disable_safety",
+    "self_modify"
+  ]
+}
